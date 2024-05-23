@@ -1,0 +1,11 @@
+{
+  "name": "hello-tea-protocol",
+  "version": "1.0.0",
+  "description": "A simple Hello World project for TEA Protocol integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
